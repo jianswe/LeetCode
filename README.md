@@ -13,9 +13,15 @@
 * [3162. Find the Number of Good Pairs I](https://leetcode.com/problems/find-the-number-of-good-pairs-i): [numberOfPairs](./src/numberOfPairs.js)
 * [3164. Find the Number of Good Pairs II](https://leetcode.com/problems/find-the-number-of-good-pairs-ii): [numberOfPairs2](./src/numberOfPairs2.js)
 
-## Stack 
+## Stacks 
 * [Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses): [maxDepth](./src/maxDepth.js)
 * [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation): [evalRPN](./src/evalRPN.js)
+
+## Trees
+
+### Binary Indexed Tree
+#### Segment Tree
+* [307. Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable): [NumArray](./src/NumArray.js)
 
 ## Dynamic Programming 
 * [198. House Robber](https://leetcode.com/problems/house-robber): [rob](./src/rob.js)
