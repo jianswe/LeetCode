@@ -1,3 +1,5 @@
+// All houses at this place are arranged in a circle. That means the first house is the neighbor of the last one.
+
 /**
  * @param {number[]} nums
  * @return {number}

@@ -26,5 +26,5 @@
 * [3165. Maximum Sum of Subsequence With Non-adjacent Elements](https://leetcode.com/problems/maximum-sum-of-subsequence-with-non-adjacent-elements): [maximumSumSubsequence](./src/maximumSumSubsequence.js)
 
 ## Dynamic Programming 
-* [198. House Robber](https://leetcode.com/problems/house-robber): [rob](./src/rob.js)
-* [213. House Robber II](https://leetcode.com/problems/house-robber-ii): [rob2](./src/rob2.js)
+* [198. House Robber](https://leetcode.com/problems/house-robber): [rob](./src/DP/rob.js)
+* [213. House Robber II](https://leetcode.com/problems/house-robber-ii): [rob2](./src/DP/rob2.js)
