@@ -9,6 +9,11 @@
   "author": "Jian",
   "license": "ISC",
   "devDependencies": {
+    "@babel/core": "^7.25.2",
+    "@babel/preset-env": "^7.25.3",
+    "@babel/preset-typescript": "^7.24.7",
+    "@types/jest": "^29.5.12",
+    "babel-jest": "^29.7.0",
     "jest": "^29.7.0"
   }
 }

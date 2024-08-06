@@ -16,7 +16,7 @@ var evalRPN = function(tokens) {
             // console.log("stack: ", stack)
             leftOperand = parseInt(tokens.pop());
             rightOperand = parseInt(stack.pop());
-            operator = stack.pop();
+            const operator = stack.pop();
             let subResult = 0; 
             switch (operator) {
                 case '+':
