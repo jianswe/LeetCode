@@ -5,15 +5,16 @@
 * [Length of Longest Subarray With at Most K Frequency](https://leetcode.com/problems/length-of-longest-subarray-with-at-most-k-frequency): [maxSubarrayLength](./src/array/maxSubarrayLength.js)
 
 ### Greedy 
-* [134. Gas Station](https://leetcode.com/problems/gas-station): [canCompleteCircuit](./src/array/canCompleteCircuit.ts)
+* [134. Gas Station (Medium)](https://leetcode.com/problems/gas-station): [canCompleteCircuit](./src/array/canCompleteCircuit.ts)
+* [135. Candy (Hard)](https://leetcode.com/problems/candy): [candy](./src/array/candy.ts)
 
 ### Boyer-Moore Voting Algorithm
-* [169. Majority Element](https://leetcode.com/problems/majority-element): [majorityElement](./src/array/majorityElement.js)
-* [229. Majority Element II](https://leetcode.com/problems/majority-element-ii): [majorityElement2](./src/array/majorityElement2.js)
+* [169. Majority Element (Easy)](https://leetcode.com/problems/majority-element): [majorityElement](./src/array/majorityElement.js)
+* [229. Majority Element II (Medium)](https://leetcode.com/problems/majority-element-ii): [majorityElement2](./src/array/majorityElement2.js)
 
 ## Hashing 
-* [3162. Find the Number of Good Pairs I](https://leetcode.com/problems/find-the-number-of-good-pairs-i): [numberOfPairs](./src/numberOfPairs.js)
-* [3164. Find the Number of Good Pairs II](https://leetcode.com/problems/find-the-number-of-good-pairs-ii): [numberOfPairs2](./src/numberOfPairs2.js)
+* [3162. Find the Number of Good Pairs I (Easy)](https://leetcode.com/problems/find-the-number-of-good-pairs-i): [numberOfPairs](./src/numberOfPairs.js)
+* [3164. Find the Number of Good Pairs II (Medium)](https://leetcode.com/problems/find-the-number-of-good-pairs-ii): [numberOfPairs2](./src/numberOfPairs2.js)
 
 ## Stacks 
 * [Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses): [maxDepth](./src/maxDepth.js)
