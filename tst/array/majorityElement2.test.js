@@ -1,4 +1,4 @@
-const majorityElement2 = require('../src/majorityElement2')
+const majorityElement2 = require('../../src/array/majorityElement2')
 
 test('Input: nums = [3,2,3]; Output: [3]', () => {
     const nums = [3,2,3]

@@ -1,4 +1,4 @@
-const maxSubarrayLength = require('../src/maxSubarrayLength')
+const maxSubarrayLength = require('../../src/array/maxSubarrayLength')
 
 test('Input: nums = [1,2,3,1,2,3,1,2], k = 2', () => {
     const nums = [1,2,3,1,2,3,1,2], k = 2

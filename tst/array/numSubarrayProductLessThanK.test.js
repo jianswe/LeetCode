@@ -1,4 +1,4 @@
-const numSubarrayProductLessThanK = require('../src/numSubarrayProductLessThanK');
+const numSubarrayProductLessThanK = require('../../src/array/numSubarrayProductLessThanK');
 
 test('Input: nums = [10,5,2,6], k = 100; Output: 8', () => {
     const nums = [10,5,2,6]; 
