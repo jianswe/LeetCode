@@ -27,6 +27,10 @@
 * [307. Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable): [NumArray](./src/NumArray.js)
 * [3165. Maximum Sum of Subsequence With Non-adjacent Elements](https://leetcode.com/problems/maximum-sum-of-subsequence-with-non-adjacent-elements): [maximumSumSubsequence](./src/maximumSumSubsequence.js)
 
+### N-ary Tree 
+#### Trie 
+* [208. Implement Trie (Prefix Tree) (Medium)](https://leetcode.com/problems/implement-trie-prefix-tree): [Trie](./src/tree/Trie.ts)
+
 ## Graph
 ### BFS
 * [1568. Minimum Number of Days to Disconnect Island](https://leetcode.com/problems/minimum-number-of-days-to-disconnect-island): [minDays](./src/graph/minDays.ts)
