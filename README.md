@@ -33,7 +33,10 @@
 
 ## Graph
 ### BFS
-* [1568. Minimum Number of Days to Disconnect Island](https://leetcode.com/problems/minimum-number-of-days-to-disconnect-island): [minDays](./src/graph/minDays.ts)
+* [1568. Minimum Number of Days to Disconnect Island (Hard)](https://leetcode.com/problems/minimum-number-of-days-to-disconnect-island): [minDays](./src/graph/minDays.ts)
+
+## Backtracking 
+* [40. Combination Sum II (Medium)](https://leetcode.com/problems/combination-sum-ii): [combinationSum2](./src/backtrack/combinationSum2.ts)
 
 ## Dynamic Programming 
 * [198. House Robber (Medium)](https://leetcode.com/problems/house-robber): [rob](./src/DP/rob.js)
