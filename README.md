@@ -20,6 +20,9 @@
 * [Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses): [maxDepth](./src/maxDepth.js)
 * [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation): [evalRPN](./src/evalRPN.js)
 
+## Binary Search 
+* [704. Binary Search (Easy)](https://leetcode.com/problems/binary-search): [search](./src/binarysearch/search.ts)
+
 ## Trees
 ### Binary Indexed Tree
 #### Heap
