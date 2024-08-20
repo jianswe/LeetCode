@@ -44,4 +44,5 @@
 ## Dynamic Programming 
 * [198. House Robber (Medium)](https://leetcode.com/problems/house-robber): [rob](./src/DP/rob.js)
 * [213. House Robber II (Medium)](https://leetcode.com/problems/house-robber-ii): [rob2](./src/DP/rob2.js)
+* [1140. Stone Game II (Medium)](https://leetcode.com/problems/stone-game-ii): [stoneGameII](./src/DP/stoneGameII.ts)
 * [1770. Maximum Score from Performing Multiplication Operations (Hard)](https://leetcode.com/problems/maximum-score-from-performing-multiplication-operations): [maximumScore](./src/DP/maximumScore.ts)
