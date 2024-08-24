@@ -24,7 +24,10 @@
 * [704. Binary Search (Easy)](https://leetcode.com/problems/binary-search): [search](./src/binarysearch/search.ts)
 
 ## Trees
-### Binary Indexed Tree
+### Binary Tree
+#### Binary Search Tree 
+* [938. Range Sum of BST (Easy)] (https://leetcode.com/problems/range-sum-of-bst): [rangeSumBST](./src/tree/rangeSumBST.ts)
+#### Binary Indexed Tree
 #### Heap
 #### Segment Tree
 * [307. Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable): [NumArray](./src/NumArray.js)
