@@ -25,8 +25,10 @@
 
 ## Trees
 ### Binary Tree
+* [94. Binary Tree Inorder Traversal (Easy)](https://leetcode.com/problems/binary-tree-inorder-traversal): [inorderTraversal](src/tree/inorderTraversal.ts) 
 #### Binary Search Tree 
-* [938. Range Sum of BST (Easy)] (https://leetcode.com/problems/range-sum-of-bst): [rangeSumBST](./src/tree/rangeSumBST.ts)
+* [701. Insert into a Binary Search Tree (Medium)](https://leetcode.com/problems/insert-into-a-binary-search-tree): [insertIntoBST](src/tree/insertIntoBST.ts)
+* [938. Range Sum of BST (Easy)](https://leetcode.com/problems/range-sum-of-bst): [rangeSumBST](./src/tree/rangeSumBST.ts)
 #### Binary Indexed Tree
 #### Heap
 #### Segment Tree
