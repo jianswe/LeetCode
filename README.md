@@ -36,6 +36,7 @@
 * [3165. Maximum Sum of Subsequence With Non-adjacent Elements](https://leetcode.com/problems/maximum-sum-of-subsequence-with-non-adjacent-elements): [maximumSumSubsequence](./src/maximumSumSubsequence.js)
 
 ### N-ary Tree 
+* [590. N-ary Tree Postorder Traversal (Easy)](https://leetcode.com/problems/n-ary-tree-postorder-traversal): [postorder](./src/tree/postorder.ts)
 #### Trie 
 * [208. Implement Trie (Prefix Tree) (Medium)](https://leetcode.com/problems/implement-trie-prefix-tree): [Trie](./src/tree/Trie.ts)
 
